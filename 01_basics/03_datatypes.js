@@ -5,6 +5,7 @@
 console.log(3 
     +
      3) // code readability should be high
+     //Allowed but not readble 
 
 console.log("Hitesh")
 
